@@ -29,7 +29,7 @@ Before running the K6 assignments, ensure that you have the following prerequisi
 
 ### 2.Navigate to the assignments folder:
 
-     cd Assignments
+     cd K6Assignments
 
 ### 3.Run the K6 test:
   #### if Assignment-1
