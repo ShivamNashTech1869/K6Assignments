@@ -51,6 +51,9 @@ Example result output:
   RPS: 5.5
   Test duration: 18s
   ...
+ ## Submitted To
+     Sparsh Bhardwaj
  ## Authors
-
       Shivam Singh
+      
+
